@@ -41,19 +41,19 @@
 
 ## 🚀 시작하기
 
-클론
-```
+- 클론
 다운받고 싶은 폴더 위치 이동 후
+```
 git clone https://github.com/umc-reborn/Reborn-iOS.git
 ```
 
-의존성 설치
-```
+- 의존성 설치
 프로젝트 디렉토리 이동 후
+```
 pod install
 ```
 
-실행
+- 실행
 ```
 Xcode로 프로젝트 파일 연 후 왼쪽 상단에 재생버튼 클릭
 ```
